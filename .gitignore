@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Face images are personal data - don't publish them
+datasets/*
+!datasets/.gitkeep
+
+# Videos / captured output
+*.mp4
+*.avi
+input.jpg
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
