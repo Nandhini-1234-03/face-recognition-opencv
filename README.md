@@ -66,5 +66,5 @@ frames, the frame is saved as `input.jpg`. Press **Esc** to quit.
 
 ## Privacy note
 
-The face images in `datasets/` are included in this repository.
-Only collect and use face data with the person's consent.
+The face images in `datasets/` are not included in this repository.
+Only collect and use face data with the person's consent otherwise collect it from google.
