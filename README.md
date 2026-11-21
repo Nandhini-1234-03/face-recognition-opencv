@@ -67,7 +67,3 @@ frames, the frame is saved as `input.jpg`. Press **Esc** to quit.
 
 The `datasets/` folder contains photos of real people and is excluded from Git via `.gitignore`.
 Only collect and use face data with the person's consent.
-
-## License
-
-MIT – see [LICENSE](LICENSE).
