@@ -5,11 +5,11 @@ __pycache__/
 venv/
 
 # Face images are personal data - don't publish them
-datasets/*
-!datasets/.gitkeep
+datasets/
 
-# Videos / captured output
+# Videos / captured output (the demo is allowed)
 *.mp4
+!demo.mp4
 *.avi
 input.jpg
 
