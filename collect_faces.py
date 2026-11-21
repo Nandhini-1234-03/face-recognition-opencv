@@ -5,7 +5,7 @@ import sys
 
 main_folder = 'datasets'
 # Usage: python collect_faces.py <person_name>
-sub_folder = sys.argv[1] if len(sys.argv) > 1 else 'papa'
+sub_folder = 'Isaac Newton'
 
 # Load Haar Cascade using OpenCV's built-in path
 alg = cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
